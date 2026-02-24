@@ -1,0 +1,1 @@
+# 12-Strapi-ECS-Fargate-Spot--No-CloudWatch-
